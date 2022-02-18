@@ -1,0 +1,5 @@
+versión de chrome 98.0.4758.102/
+versión de webdriver 98.0.4758.102/
+https://chromedriver.storage.googleapis.com/index.html?path=98.0.4758.102/
+pip install pyautogui
+python -m pip install --upgrade pip

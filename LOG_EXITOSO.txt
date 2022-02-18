@@ -1,0 +1,82 @@
+C:\proyecto\test_desafioautomatizacionqa.py:25: DeprecationWarning: executable_path has been deprecated, please pass in a Service object
+  self.driver = webdriver.Chrome(executable_path=r"C:\\proyecto\\driver\\chromedriver.exe")
+C:\proyecto\test_desafioautomatizacionqa.py:33: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[3]/div/div/div[2]/div[2]/button[1]/span")
+C:\proyecto\test_desafioautomatizacionqa.py:37: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click=self.driver.find_element_by_xpath("/html/body/div[2]/ul/li[1]/a/i")
+C:\proyecto\test_desafioautomatizacionqa.py:45: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[3]/div/div/div[2]/div[2]/button[1]/span")
+C:\proyecto\test_desafioautomatizacionqa.py:49: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click=self.driver.find_element_by_xpath("/html/body/div[2]/ul/li[1]/a/i")
+C:\proyecto\test_desafioautomatizacionqa.py:57: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[3]/div/div/div[2]/div[2]/button[1]/span")
+C:\proyecto\test_desafioautomatizacionqa.py:62: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  radio_bt = self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[1]/div[2]/div[2]/div[1]/div/div[2]/label/input")
+C:\proyecto\test_desafioautomatizacionqa.py:65: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  radio_bt = self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[1]/div[2]/div[2]/div[2]/div/div[4]/label/input")
+C:\proyecto\test_desafioautomatizacionqa.py:71: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  select = self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[1]/div[2]/div[2]/div[4]/select")
+C:\Users\bviva\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webelement.py:359: UserWarning: find_elements_by_* commands are deprecated. Please use find_elements() instead
+  warnings.warn("find_elements_by_* commands are deprecated. Please use find_elements() instead")
+los valores son: 
+los valores son: 4
+los valores son: 3
+los valores son: 1
+los valores son: 2
+C:\proyecto\test_desafioautomatizacionqa.py:78: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  seleccionar = Select(self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[1]/div[2]/div[2]/div[4]/select"))
+C:\proyecto\test_desafioautomatizacionqa.py:86: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click2=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[1]/div[2]/div[2]/div[10]/button")
+C:\proyecto\test_desafioautomatizacionqa.py:91: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click3=self.driver.find_element_by_xpath("/html/body/nav/div/div[2]/ul/li[4]/a/i")
+C:\proyecto\test_desafioautomatizacionqa.py:96: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click4=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[3]/div[2]/a")
+C:\proyecto\test_desafioautomatizacionqa.py:101: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  click5=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[1]/div[2]/div/div/div[1]/input")
+bryan
+vivanco
+bvivancoc8888@gmail.com
+888554477
+%tr%tF
+los pirineos
+el quisco
+27000000
+C:\proyecto\test_desafioautomatizacionqa.py:155: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  select = self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/fieldset/div[6]/select")
+C:\proyecto\test_desafioautomatizacionqa.py:160: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  seleccionar2 = Select(self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/fieldset/div[6]/select"))
+C:\proyecto\test_desafioautomatizacionqa.py:163: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  select = self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/fieldset/div[7]/select")
+C:\proyecto\test_desafioautomatizacionqa.py:170: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  seleccionarR = Select(self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[1]/div[2]/fieldset/div[7]/select"))
+C:\proyecto\test_desafioautomatizacionqa.py:173: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickpriva=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[4]/div/input[1]")
+C:\proyecto\test_desafioautomatizacionqa.py:178: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickC=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[2]/div[2]/div/div[4]/div/input[2]")
+C:\proyecto\test_desafioautomatizacionqa.py:183: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickC2=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[3]/div[2]/div/form/div[5]/div/input")
+C:\proyecto\test_desafioautomatizacionqa.py:192: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickC3=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[4]/div[2]/div/div[2]/div/input")
+C:\proyecto\test_desafioautomatizacionqa.py:197: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickT=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[5]/div[2]/div/div[2]/div/input[1]")
+C:\proyecto\test_desafioautomatizacionqa.py:202: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickC4=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[5]/div[2]/div/div[2]/div/input[2]")
+C:\proyecto\test_desafioautomatizacionqa.py:207: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickCO=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div[6]/div[2]/div/div[2]/div/input")
+C:\proyecto\test_desafioautomatizacionqa.py:212: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickC5=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div/div/a")
+C:\proyecto\test_desafioautomatizacionqa.py:217: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickCU=self.driver.find_element_by_xpath("/html/body/nav/div/div[2]/ul/li[2]/a/i")
+C:\proyecto\test_desafioautomatizacionqa.py:222: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickCO=self.driver.find_element_by_xpath("/html/body/nav/div/div[2]/ul/li[2]/ul/li[2]/a")
+C:\proyecto\test_desafioautomatizacionqa.py:227: DeprecationWarning: find_element_by_* commands are deprecated. Please use find_element() instead
+  clickV=self.driver.find_element_by_xpath("/html/body/div[2]/div/div/div[1]/table/tbody/tr/td[7]/a/i")
+.C:\Users\bviva\AppData\Local\Programs\Python\Python310\lib\unittest\suite.py:84: ResourceWarning: unclosed <socket.socket fd=736, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=0, laddr=('::1', 53903, 0, 0), raddr=('::1', 53901, 0, 0)>
+  return self.run(*args, **kwds)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+
+----------------------------------------------------------------------
+Ran 1 test in 127.639s
+
+OK
+[Finished in 128.0s]
